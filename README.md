@@ -72,13 +72,14 @@ Encerramento do Programa: Ao escrever um programa para DOS, é importante encerr
 Compatibilidade: Embora o DOS não seja mais amplamente usado como sistema operacional principal, você ainda pode executar programas DOS em emuladores ou sistemas legados. Certifique-se de que seu código seja compatível com o ambiente de destino.
 Ao programar para DOS em assembly, é importante consultar a documentação relevante do DOS e entender as interrupções de software disponíveis e suas respectivas funções. Também é útil estudar exemplos de código e explorar recursos adicionais, como bibliotecas e ferramentas de desenvolvimento para DOS em assembly.
 
-MASM (Microsoft Macro Assembler):
+### MASM (Microsoft Macro Assembler):
 
 Desenvolvido pela Microsoft, o MASM é uma ferramenta de desenvolvimento de software que traduz programas escritos em linguagem assembly para código de máquina executável.
 É especialmente popular para programação em assembly para ambientes Windows.
 Oferece suporte a uma ampla variedade de recursos, incluindo macros, diretivas de segmento e manipulação de recursos específicos do Windows.
 O MASM é amplamente utilizado em desenvolvimento de drivers, programação de baixo nível e algumas áreas de desenvolvimento de aplicativos Windows.
-TASM (Turbo Assembler):
+
+### TASM (Turbo Assembler):
 
 Desenvolvido pela Borland, o TASM é um montador amplamente utilizado para desenvolvimento de software em assembly.
 Fazia parte do conjunto de ferramentas de desenvolvimento Turbo da Borland, que incluía compiladores e outras ferramentas para linguagens como Pascal e C.
